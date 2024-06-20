@@ -6,7 +6,7 @@ Hay tres checkeos en cualquier pull request:
 
 1. ruff-lint
 2. pytest
-3. Que la salida de los notebooks está borrada
+3. que la salida de los notebooks está borrada
 
 1 y 2 son tareas para ustedes (pista: ejecuta `pytest` para ejecutar pytest=.
 
