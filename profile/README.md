@@ -1,6 +1,7 @@
 # GeoPozo
 
-## Spanish
+## Español
+(English below)
 
 Hay tres checkeos en cualquier pull request:
 
@@ -8,7 +9,7 @@ Hay tres checkeos en cualquier pull request:
 2. pytest
 3. que la salida de los notebooks está borrada
 
-1 y 2 son tareas para ustedes (pista: ejecuta `pytest` para ejecutar pytest=.
+1 y 2 son tareas para ustedes (pista: la comanda `pytest` para ejecutar pytest).
 
 De 3, se puede installar [este hook (guancho)](../pre-commit):
 
